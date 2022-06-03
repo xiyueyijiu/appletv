@@ -17,7 +17,7 @@
 			<false/>
 			<key>IsHotspot</key>
 			<false/>
-			<key>Password</key>
+			<key>995154987675</key>
 			<string>123456</string>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
@@ -38,7 +38,7 @@
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
-			<string>请输入wifi名称</string>
+			<string>XiYueYiJiu5GHz</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
